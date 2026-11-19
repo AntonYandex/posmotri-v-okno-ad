@@ -1,3 +1,1 @@
-https://github.com/ilkaxd/posmotri_v_okno
-
-Верстаем одностраничный сайт с псевдоэлементами
+https://github.com/AntonYandex/posmotri-v-okno-ad
